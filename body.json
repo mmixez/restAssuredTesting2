@@ -1,0 +1,9 @@
+{
+  "id": "4",
+  "name": "Miho",
+  "age": 22,
+  "country": "Japan",
+  "courses": [
+    "Math", "Computer Science", "English"
+  ]
+}
